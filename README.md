@@ -8,11 +8,11 @@ Dla systemu WINDOWS: C:\\TORrent_$<br>
 Dla systemu LINUX: ~\\TORrent_$<br>
 Gdzie $ oznaczna numer instacji który podajemy jako argument przy<br>wywowałaniu programu.
 
-W każdym folderze ToRrent_$ powiinien znajdować się plik konfiguracyjny o nazwie conf.txt<br>
+W każdym folderze TORrent_$ powiinien znajdować się plik konfiguracyjny o nazwie conf.txt<br>
 Gdzie beda adresy ip oraz porty rozdzielone dwukropkiem.<br>
 Na przykład<br>
 <code>
-localhost:11000<br>
+<li>localhost:11000</li>
 localhost:11001<br>
 localhost:11002<br>
 </code>
