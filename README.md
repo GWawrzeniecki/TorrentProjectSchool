@@ -1,6 +1,6 @@
 Projekt na studia PJWSTK
 Aplikacja konsolowa "Torrent"
-
+eloelo
 <b>Instrukcje:</b>elo
 
 Zakładamy, że użytkownik aplikacji ma założony folder
