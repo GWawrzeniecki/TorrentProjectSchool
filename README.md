@@ -1,5 +1,5 @@
-Projekt na studia PJWSTK<br>
-Aplikacja konsolowa "Torrent"
+<h4>Projekt na studia PJWSTK<br>
+Aplikacja konsolowa "Torrent"</h4>
 
 <b>Instrukcje:</b>
 
@@ -12,9 +12,9 @@ W każdym folderze ToRrent_$ powiinien znajdować się plik konfiguracyjny o naz
 Gdzie beda adresy ip oraz porty rozdzielone dwukropkiem.<br>
 Na przykład<br>
 <code>
-localhost:11000
-localhost:11001
-localhost:11002
+localhost:11000<br>
+localhost:11001<br>
+localhost:11002<br>
 </code>
 Każda instacja aplikacji spowoduje utworzenie folderu DANE oraz POBRANE w jej folderze.
 
@@ -28,6 +28,7 @@ A w celu uruchomienia 1 instancji<br>
 #!/bin/bash
 java -cp /Projekt_SKJ_s15429/bin Main 1
 </code><br>
+
 Zaimplementowane wartości:
 1. Wymiana listy plików udostępnianych przez hosty
 2. Przesyłanie plików typu PULL(Ściągniecie pliku z hosta)
