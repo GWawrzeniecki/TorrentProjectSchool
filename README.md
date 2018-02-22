@@ -25,7 +25,7 @@ javac /Torrent/src/*.java
 A w celu uruchomienia 1 instancji<br>
 <code>
 #!/bin/bash
-java -cp /Projekt_SKJ_s15429/bin Main 1
+java -cp /Torrent/bin Main 1
 </code><br>
 
 Zaimplementowane wartości:
