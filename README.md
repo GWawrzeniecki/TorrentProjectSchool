@@ -3,13 +3,13 @@ Aplikacja konsolowa "Torrent"
 
 <b>Instrukcje:</b>
 
-Zakładamy, że użytkownik aplikacji ma założony folder
-Dla systemu WINDOWS: C:\\TORrent_$
-Dla systemu LINUX: ~\\TORrent_$
-Gdzie $ oznaczna numer instacji który podajemy jako argument przy wywowałaniu programu.
+Zakładamy, że użytkownik aplikacji ma założony folder<br>
+Dla systemu WINDOWS: C:\\TORrent_$<br>
+Dla systemu LINUX: ~\\TORrent_$<br>
+Gdzie $ oznaczna numer instacji który podajemy jako argument przy<br>wywowałaniu programu.
 
 W każdym folderze ToRrent_$ powiinien znajdować się plik konfiguracyjny o nazwie conf.txt
-Gdzie beda adresy ip oraz porty rozdzielone dwukropkiem.
+Gdzie beda adresy ip oraz porty rozdzielone dwukropkiem.<br>
 Na przykład
 localhost:11000
 localhost:11001
@@ -17,12 +17,12 @@ localhost:11002
 
 Każda instacja aplikacji spowoduje utworzenie folderu DANE oraz POBRANE w jej folderze.
 
-W celu kompilacji programu można posłużyć się skryptem(Linux)
+W celu kompilacji programu można posłużyć się skryptem(Linux)<br>
 <code>
 #!/bin/bash
 javac /Torrent/src/*.java
 </code>
-A w celu uruchomienia 1 instancji
+A w celu uruchomienia 1 instancji<br>
 <code>
 #!/bin/bash
 java -cp /Projekt_SKJ_s15429/bin Main 1
