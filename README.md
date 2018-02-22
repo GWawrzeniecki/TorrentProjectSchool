@@ -1,4 +1,4 @@
-Projekt na studia PJWSTK
+Projekt na studia PJWSTK<br>
 Aplikacja konsolowa "Torrent"
 
 <b>Instrukcje:</b>
