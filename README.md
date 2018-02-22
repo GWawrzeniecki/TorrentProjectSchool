@@ -1,6 +1,7 @@
 Projekt na studia PJWSTK
 Aplikacja konsolowa "Torrent"
-Instrukcje:
+
+<b>Instrukcje:</b>elo
 
 Zakładamy, że użytkownik aplikacji ma założony folder
 Dla systemu WINDOWS: C:\\TORrent_$
