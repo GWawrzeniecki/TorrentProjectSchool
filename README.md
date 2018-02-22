@@ -2,20 +2,19 @@
 Aplikacja konsolowa "Torrent"</h2>
 
 <h4>Instrukcje:</h4>
-
 Zakładamy, że użytkownik aplikacji ma założony folder<br>
 <li>Dla systemu WINDOWS: C:\\TORrent_$</li>
 <li>Dla systemu LINUX: ~\\TORrent_$</li>
-Gdzie $ oznaczna numer instacji który podajemy jako argument przy<br>wywowałaniu programu.
+
+Gdzie $ oznaczna numer instacji który podajemy jako argument przy<br>wywowałaniu programu.<p></p>
 
 W każdym folderze TORrent_$ powiinien znajdować się plik konfiguracyjny o nazwie conf.txt<br>
 Gdzie beda adresy ip oraz porty rozdzielone dwukropkiem.<br>
 Na przykład<br>
-
 <li>localhost:11000</li>
 <li>localhost:11001</li>
 <li>localhost:11002</li>
-
+<p></p>
 Każda instacja aplikacji spowoduje utworzenie folderu DANE oraz POBRANE w jej folderze.
 
 W celu kompilacji programu można posłużyć się skryptem(Linux)<br>
