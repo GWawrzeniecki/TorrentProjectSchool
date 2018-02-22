@@ -33,7 +33,7 @@ Zaimplementowane wartości:
 2. Przesyłanie plików typu PULL(Ściągniecie pliku z hosta)
 3. Przesyłanie plików typu PUSH(Wysłanie pliku na host)
 4. Wznawianie transmisji pliku w przypadku jej przerwania
-5. Server HTTP wraz z logami(PO uruchomieniu aplikacji otrzymamy stosowną informację o adresie serwera HTTP)
+5. Server HTTP wraz z logami(Po uruchomieniu aplikacji otrzymamy stosowną informację o adresie serwera HTTP)
 
 
 
