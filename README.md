@@ -1,7 +1,7 @@
 Projekt na studia PJWSTK
 Aplikacja konsolowa "Torrent"
-eloelo
-<b>Instrukcje:</b>elo
+
+<b>Instrukcje:</b>
 
 Zakładamy, że użytkownik aplikacji ma założony folder
 Dla systemu WINDOWS: C:\\TORrent_$
@@ -18,15 +18,15 @@ localhost:11002
 Każda instacja aplikacji spowoduje utworzenie folderu DANE oraz POBRANE w jej folderze.
 
 W celu kompilacji programu można posłużyć się skryptem(Linux)
-
+<code>
 #!/bin/bash
 javac /Torrent/src/*.java
-
+</code>
 A w celu uruchomienia 1 instancji
-
+<code>
 #!/bin/bash
 java -cp /Projekt_SKJ_s15429/bin Main 1
-
+</code>
 Zaimplementowane wartości:
 1. Wymiana listy plików udostępnianych przez hosty
 2. Przesyłanie plików typu PULL(Ściągniecie pliku z hosta)
